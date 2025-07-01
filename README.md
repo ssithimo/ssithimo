@@ -1,16 +1,17 @@
-## Hi there 👋
+# About me
 
-<!--
-**ssithimo/ssithimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Fun Fact:
 
-Here are some ideas to get you started:
+When I’m not working with data, you’ll probably find me lifting weights (5–6 days a week) 💪 or experimenting with new recipes in the kitchen 👨‍🍳. Fitness and food fuel both sides of my brain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning about RAG and AI Agents
+
+📌 Featured Projects:
+(to be populated)
+
+🚀 Open To:
+- Data analyst, business intelligence, machine learning engineer, or data scientist roles
+- Collaborations on ML or analytics-driven projects
+- Connecting with others
+
+📫 Let's connect [LinkedIn](https://www.linkedin.com/in/samsithimolada/) | [Email](mailto:sam.sithimolada.2024@marshall.usc.edu)
