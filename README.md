@@ -10,7 +10,8 @@ When I’m not working with data, you’ll probably find me lifting weights (5�
 - [AAA Demand Modeling](https://github.com/ssithimo/aaa-demand-modeling) 
 - [Ad Campaign Optimization](https://github.com/ssithimo/ad-campaign-optimization)
 - [American Sign Language Deep Learning](https://github.com/ssithimo/deep-learning-asl)
-- [Sneaker Drop Email Campaign A/B Testing]
+- [Sneaker Drop Email Campaign A/B Testing](https://github.com/ssithimo/sneaker-drop-campaign)
+- [Predicting and Classifying European Tesla Options](https://github.com/ssithimo/tesla-options-ml)
 
 🚀 Open To:
 - Data analyst, business intelligence, machine learning engineer, or data scientist roles
