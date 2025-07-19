@@ -1,6 +1,6 @@
 # About me
 
-🧠 Fun Fact:
+:puzzle_piece: Fun Fact:
 
 When I’m not working with data, you’ll probably find me lifting weights (5–6 days a week) 💪 or experimenting with new recipes in the kitchen 👨‍🍳. Fitness and food fuel both sides of my brain.
 
@@ -13,7 +13,7 @@ When I’m not working with data, you’ll probably find me lifting weights (5�
 - [Sneaker Drop Email Campaign A/B Testing](https://github.com/ssithimo/sneaker-drop-campaign)
 - [Predicting and Classifying European Tesla Options](https://github.com/ssithimo/tesla-options-ml)
 
-🚀 Open To:
+:door: Open To:
 - Data analyst, business intelligence, machine learning engineer, or data scientist roles
 - Collaborations on ML or analytics-driven projects
 - Connecting with others
