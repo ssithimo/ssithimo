@@ -1,6 +1,6 @@
 # About me
 
-:puzzle_piece: Fun Fact:
+🧩 Fun Fact:
 
 When I’m not working with data, you’ll probably find me lifting weights (5–6 days a week) 💪 or experimenting with new recipes in the kitchen 👨‍🍳. Fitness and food fuel both sides of my brain.
 
