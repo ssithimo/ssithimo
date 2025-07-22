@@ -7,6 +7,7 @@ When I’m not working with data, you’ll probably find me lifting weights (5�
 🌱 I’m currently learning about RAG and AI Agents
 
 📌 Featured Projects:
+- [MLB ETL Pitching Trend](https://github.com/ssithimo/mlb-etl-pitching-trend)
 - [AAA Demand Modeling](https://github.com/ssithimo/aaa-demand-modeling) 
 - [Ad Campaign Optimization](https://github.com/ssithimo/ad-campaign-optimization)
 - [American Sign Language Deep Learning](https://github.com/ssithimo/deep-learning-asl)
