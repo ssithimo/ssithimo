@@ -7,6 +7,7 @@ When I’m not working with data, you’ll probably find me lifting weights (5�
 🌱 I’m currently learning about RAG and AI Agents
 
 📌 Featured Projects:
+- [Thyroid Nodule Ultrasound Analysis & Prediction](https://github.com/ssithimo/thyroid-vision-ml.git)
 - [Cannabis E-Commerce Hybrid Recommendation](https://github.com/ssithimo/cannabis-ecommerce-recommendation)
 - [MLB ETL Pitching Trend](https://github.com/ssithimo/mlb-etl-pitching-trend)
 - [AAA Demand Modeling](https://github.com/ssithimo/aaa-demand-modeling) 
