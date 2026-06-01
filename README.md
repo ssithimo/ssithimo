@@ -8,12 +8,12 @@ When I’m not working with data, you’ll probably find me lifting weights (5�
 
 📌 Featured Projects:
 - [Thyroid Nodule Ultrasound Analysis & Prediction](https://github.com/ssithimo/thyroid-vision-ml.git)
-- [Cannabis E-Commerce Hybrid Recommendation](https://github.com/ssithimo/cannabis-ecommerce-recommendation)
-- [MLB ETL Pitching Trend](https://github.com/ssithimo/mlb-etl-pitching-trend)
+- [E-Commerce Recommendation System](https://github.com/ssithimo/cannabis-ecommerce-recommendation)
+- [MLB ETL Baseball Analytics](https://github.com/ssithimo/mlb-etl-pitching-trend)
 - [AAA Demand Modeling](https://github.com/ssithimo/aaa-demand-modeling) 
-- [Ad Campaign Optimization](https://github.com/ssithimo/ad-campaign-optimization)
-- [American Sign Language Deep Learning](https://github.com/ssithimo/deep-learning-asl)
-- [Sneaker Drop Email Campaign A/B Testing](https://github.com/ssithimo/sneaker-drop-campaign)
+- [Marketing Campaign Optimization](https://github.com/ssithimo/ad-campaign-optimization)
+- [Firm Acquisition Analysis](https://github.com/ssithimo/dunder-mifflin-acquisition.git)
+- [Email Campaign A/B Experiment](https://github.com/ssithimo/sneaker-drop-campaign)
 - [Predicting and Classifying European Tesla Options](https://github.com/ssithimo/tesla-options-ml)
 
 :door: Open To:
