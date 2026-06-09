@@ -15,7 +15,8 @@ When I’m not working with data, you’ll probably find me lifting weights (5�
 - [Firm Acquisition Analysis](https://github.com/ssithimo/dunder-mifflin-acquisition.git)
 - [Email Campaign A/B Experiment](https://github.com/ssithimo/sneaker-drop-campaign)
 - [Predicting and Classifying European Tesla Options](https://github.com/ssithimo/tesla-options-ml)
-
+- [Stater Bros Forecasting](https://github.com/ssithimo/grocery-sales-forecasting)
+  
 :door: Open To:
 - Data analyst, business intelligence, machine learning engineer, or data scientist roles
 - Collaborations on ML or analytics-driven projects
